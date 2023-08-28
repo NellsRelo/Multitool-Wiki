@@ -1,5 +1,7 @@
 # Overview
-* ### [General Usage](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/General-Usage)
+### [General Usage](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/General-Usage)
 
 # Features
-* ### [GameObject Explorer](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/GameObject-Explorer)
+### [UUID Generation](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/v4-UUID-TranslatedString-Handle-Generator)
+### [Index Search](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Index-Search)
+### [GameObject Explorer](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/GameObject-Explorer)
