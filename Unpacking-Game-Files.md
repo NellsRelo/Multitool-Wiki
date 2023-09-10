@@ -24,11 +24,13 @@ If you have the space, it's recommended to hit the `Select All` button, but if n
 
 ![Screenshot of the Pak Unpacking Progress window in Multitool](https://i.imgur.com/6UMTR01.png)
 
-Once the process is complete, you'll see the following folder, and when you click into it, it will look like this:
+Once the process is complete, you'll see the following folder: 
 
-<img alt="Screenshot of the Multitool installation folder with an 'UnpackedData' folder" src="https://i.imgur.com/0bI8v4l.png" align="left">
+<img alt="Screenshot of the Multitool installation folder with an 'UnpackedData' folder" src="https://i.imgur.com/0bI8v4l.png">
 
-<img alt="Screenshot of the Multitool installation folder with an 'UnpackedData' folder" src="https://i.imgur.com/LmEd15P.png" align="right">
+When you click into it, it will look like this:
+
+<img alt="Screenshot of the Multitool installation folder with an 'UnpackedData' folder" src="https://i.imgur.com/LmEd15P.png">
 
 <br /><br /><br /><br /><br /><br /><br /><br />
 
