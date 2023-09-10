@@ -1,4 +1,4 @@
-# v3 UUID/TranslatedString Handle Generator
+# v4 UUID/TranslatedString Handle Generator
 The Multitool can Generate UUIDs and TranslatedString Handles quickly and conveniently.
 
 ![image](https://github.com/ShinyHobo/BG3-Modders-Multitool/assets/6206737/312e1e48-6509-423d-ade0-557eddc67254)
