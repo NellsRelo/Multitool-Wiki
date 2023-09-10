@@ -8,7 +8,9 @@ Clicking on the green icon will open up a dialog window, displaying the details 
 
 If you choose to update the Multitool, click on the `Update` button. This will close the Multitool, and re-open it once it detects a successful installation. Note that this may not always succeed. Sometimes you'll need to make multiple attempts. If you're having trouble getting the functionality to work, your best bet will be to follow the [Installation]() steps again. Depending on the update, you may have to reconfigure or unpack your files again, but this is not a common requirement.
 
+<p align="center">
 <img alt="Screenshot of the 'Updates Available' dialog window when attempting to update the Multitool within the application" src="https://i.imgur.com/uB1uyTi.png">
+</P>
 
 ---
 
