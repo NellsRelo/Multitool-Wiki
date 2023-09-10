@@ -19,9 +19,13 @@ This is the core feature of the Multitool. It allows you to unpack the game file
 [<img src="https://img.shields.io/badge/Check_Out-Unpacking_the_Game_Files-orange?style=for-the-badge">](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Unpacking-Game-Files)
 
 ### Decompression
+When the Multitool has finished Unpacking the game files, there are still files that can't be worked with directly, with extensions like `.lsf`, `.lsb`, or `.loca`. Fortunately, the Multitool can decompress these files into editable `.lsx` and `.xml` files.
+
 [<img src="https://img.shields.io/badge/Check_Out-Decompression-orange?style=for-the-badge">](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Decompression)
 
-### Index Files
+### Index and Searching Files
+The Multitool provides a handy file search function for its unpacked files, which requires indexing the Unpacked Files to be effective.
+
 [<img src="https://img.shields.io/badge/Check_Out-Indexing_and_Searching_Files-orange?style=for-the-badge">](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Indexing-Searching-Files)
 ### GameObject Explorer
 [<img src="https://img.shields.io/badge/Check_Out-GameObject_Explorer-orange?style=for-the-badge">](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/GameObject-Explorer)
@@ -37,4 +41,4 @@ If you're creating new Spells, Actions, Statuses, Passives, Races, or Classes, c
 
 ---
 
-[<img align="left" src="https://img.shields.io/static/v1?label=Previous&message=Configuration&color=blue&style=for-the-badge">](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Configuration)
+[<img align="left" src="https://img.shields.io/static/v1?label=Previous&message=Configuration&color=blue&style=for-the-badge">](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Configuration) [<img align="right" src="https://img.shields.io/badge/Next-Updating-2ea44f?style=for-the-badge">](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Updating)

@@ -7,4 +7,7 @@
    - [UUID Generation](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/v4-UUID-TranslatedString-Handle-Generator)
    - [Index Search](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Index-Search)
    - [GameObject Explorer](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/GameObject-Explorer)
+- [Updating the Multitool](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Updating)
 
+### Useful Information
+- [Anatomy of a Workspace](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Anatomy-of-a-Workspace)

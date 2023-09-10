@@ -22,6 +22,7 @@ Excited to work with the Multitool's help, but unsure how to use it? See the sid
 1. [Installation](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Installation)
 2. [Configuration](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Configuration)
 3. [General Usage](http://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/General-Usage)
+4. [Updating the multitool](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Updating)
 
 # Getting Involved
 The Multitool was created by ShinyHobo, and has incorporated several smaller-scale automation scripts over time. Outside support is always welcome, whether you've found a bug to report, thought up a feature to request, or want to offer your development expertise. If you'd like to help, contact ShinyHobo with your skillset to see what priorities you might be able to help with. Localization and Documentation are especially helpful.
