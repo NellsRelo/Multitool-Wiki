@@ -32,8 +32,6 @@ When you click into it, it will look like this:
 
 <img alt="Screenshot of the Multitool installation folder with an 'UnpackedData' folder" src="https://i.imgur.com/LmEd15P.png">
 
-<br /><br /><br /><br /><br /><br /><br /><br />
-
 ---
 
 [<img src="https://img.shields.io/badge/Back_To-General_Usage-orange?style=for-the-badge">](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/General-Usage)
