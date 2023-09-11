@@ -11,3 +11,6 @@
    - [Packaging/Unpackaging Mod Files](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Packaging-Mod-Files)
    - [UUID Generation](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/v4-UUID-TranslatedString-Handle-Generator)
 - [Updating the Multitool](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Updating)
+
+### Additional Information
+- [Meta.lsx Template](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Meta-Template)
