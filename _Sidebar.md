@@ -11,6 +11,3 @@
    - [Packaging/Unpackaging Mod Files](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Packaging-Mod-Files)
    - [UUID Generation](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/v4-UUID-TranslatedString-Handle-Generator)
 - [Updating the Multitool](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Updating)
-
-### Useful Information
-- [Anatomy of a Workspace](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Anatomy-of-a-Workspace)
