@@ -43,6 +43,9 @@ If you're creating new Spells, Actions, Statuses, Passives, Races, or Classes, c
 [<img src="https://img.shields.io/badge/Check_Out-UUID/TranslatedString_Handle_Generator-orange?style=for-the-badge">](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/v4-UUID-TranslatedString-Handle-Generator)
 
 
+## Additional Information on Using the Multitool
+[Padme4000](https://github.com/Padme4000) has created a mini-tutorial on [how to use this tool](https://www.youtube.com/watch?v=91jX0vYhDkg).
+
 ---
 
 [<img align="left" src="https://img.shields.io/static/v1?label=Previous&message=Configuration&color=blue&style=for-the-badge">](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Configuration) [<img align="right" src="https://img.shields.io/badge/Next-Updating-2ea44f?style=for-the-badge">](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Updating)
