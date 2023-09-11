@@ -28,6 +28,8 @@ The Multitool provides a handy file search function for its unpacked files, whic
 
 [<img src="https://img.shields.io/badge/Check_Out-Indexing_and_Searching_Files-orange?style=for-the-badge">](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Indexing-Searching-Files)
 ### GameObject Explorer
+The GameObject Explorer, or GOE for short, is a useful tool that allows for quickly searching through Game Objects and their properties, as well as viewing thier models. It serves a different purpose than the index search, and both are valuable tools for any modder.
+
 [<img src="https://img.shields.io/badge/Check_Out-GameObject_Explorer-orange?style=for-the-badge">](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/GameObject-Explorer)
 
 ### Packaging/Unpackaging Mod Files
