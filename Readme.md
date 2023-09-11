@@ -28,11 +28,15 @@ The Modder's Multitool is the Swiss Army Knife of Modding utilities for Baldur's
 - Colada model conversion  
 - .wem => .ogg file conversion and playback
 
+# How do I use these tools?
+Excited to work with the Multitool's help, but unsure how to use it? [See the Wiki](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki) for more information about the Project and how to use specific features of the Multitool, or look below for the ideal steps to learn the Multitool.
+1. [Installation](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Installation)
+2. [Configuration](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Configuration)
+3. [General Usage](http://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/General-Usage)
+4. [Updating the Multitool](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Updating)
+
 ## Linux Users ##
 I have been told that [Bottles](https://github.com/bottlesdevs/Bottles) is a good resource for running this application under Linux
-
-## Contributing
-
 
 ### Baldur's Gate 3 Modder's Multitool is unofficial fan content, not approved/endorsed by Larian Studios. Portions of the materials used are property of Wizards of the Coast LLC and Larian Studios Games ltd.
 
