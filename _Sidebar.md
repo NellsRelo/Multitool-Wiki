@@ -1,4 +1,5 @@
 # Overview
+[Home](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Installation)
 ### General Usage
 - [Installation](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Installation)
 - [Configuration](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Configuration)
