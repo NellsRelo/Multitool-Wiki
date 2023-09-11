@@ -33,6 +33,7 @@ I have been told that [Bottles](https://github.com/bottlesdevs/Bottles) is a goo
 
 ## Contributing
 
+
 ### Baldur's Gate 3 Modder's Multitool is unofficial fan content, not approved/endorsed by Larian Studios. Portions of the materials used are property of Wizards of the Coast LLC and Larian Studios Games ltd.
 
 [contributors-shield]: https://img.shields.io/github/contributors/ShinyHobo/BG3-Modders-Multitool.svg?style=for-the-badge

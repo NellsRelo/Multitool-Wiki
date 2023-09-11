@@ -14,3 +14,4 @@
 
 ### Additional Information
 - [Meta.lsx Template](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Meta-Template)
+- [Mod Workspace Structure](https://github.com/ShinyHobo/BG3-Modders-Multitool/wiki/Mod-Workspace-Structure)
